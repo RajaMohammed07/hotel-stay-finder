@@ -9,9 +9,9 @@ const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-6">
               <div className="w-10 h-10 gradient-gold rounded-lg flex items-center justify-center shadow-gold">
-                <span className="text-primary-foreground font-display font-bold text-xl">S</span>
+                <span className="text-primary-foreground font-display font-bold text-xl">R</span>
               </div>
-              <span className="font-display text-xl font-semibold">StayLux</span>
+              <span className="font-display text-xl font-semibold">RM</span>
             </div>
             <p className="text-primary-foreground/70 leading-relaxed mb-6">
               Your gateway to extraordinary travel experiences. Discover luxury hotels 
@@ -80,7 +80,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-primary-foreground/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-primary-foreground/50 text-sm">
-            © 2026 StayLux. All rights reserved.
+            © 2026 RM. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm">
             <a href="#" className="text-primary-foreground/50 hover:text-accent transition-colors">Privacy</a>
