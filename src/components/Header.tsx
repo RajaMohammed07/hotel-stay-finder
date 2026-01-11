@@ -12,9 +12,9 @@ const Header = () => {
           {/* Logo */}
           <a href="/" className="flex items-center gap-2">
             <div className="w-10 h-10 gradient-gold rounded-lg flex items-center justify-center shadow-gold">
-              <span className="text-primary-foreground font-display font-bold text-xl">S</span>
+              <span className="text-primary-foreground font-display font-bold text-xl">R</span>
             </div>
-            <span className="font-display text-xl font-semibold text-foreground">StayLux</span>
+            <span className="font-display text-xl font-semibold text-foreground">RM</span>
           </a>
 
           {/* Desktop Navigation */}
